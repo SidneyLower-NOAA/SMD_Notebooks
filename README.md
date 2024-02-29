@@ -2,6 +2,8 @@
 
 - how2_grib2io: introduction to grib2io for processing GRIB2 files, navigating and extracting messages, and handling data with xarray and metpy
 
+- QMD: demonstrates quantile mapping, first in 1D then extending to GEFS maximum temperature forecast mapped to URMA, using grib2io backend support in xarray for grid interpolation and scipy stats for CDF construction.
+
 - Data_Assimilation: introduction to data assimilation, briefly touching on 3DVar and introducing coalescence
 
 - Coalescence_Notebooks
