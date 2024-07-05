@@ -9,3 +9,9 @@
 - Coalescence_Notebooks
   - Coalescence_Demo: more in depth look at using coelescence to determine a more physically meaningful deterministic value from the GEFS ensemble forecasts for 6h precipitation
   - Coalescence_Testing: handful of test cases to explore objective function space, free parameter tunings, and minimization/interpolation options
+ 
+- Supplemental Locations
+  - Analyze_Supplemental_Locations: exploring supplemental locations (SL) results, analyzing efficacy of correlations between selected points and their SLs and testing various parameter/model variations
+  - Water_SLs: more in depth analysis of the impact of allowing water SLs for land points
+  - Precip_Gamma_Params: developing python-based method to calculate gamma CDF parameters for MSWEP archive
+  - Diurnal_Cycle: exploring methods to incorporate diurnal cycle information into supplemental locations algorithm
