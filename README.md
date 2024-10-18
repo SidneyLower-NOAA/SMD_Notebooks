@@ -14,4 +14,5 @@
   - Analyze_Supplemental_Locations: exploring supplemental locations (SL) results, analyzing efficacy of correlations between selected points and their SLs and testing various parameter/model variations
   - Precip_Gamma_Params: developing python-based method to calculate gamma CDF parameters for MSWEP archive
   - Diurnal_Cycle: exploring methods to incorporate diurnal cycle information into supplemental locations algorithm
+  - Calibrating_with_GP: (attempting to) use Gaussian Processes to optimize runtime parameters
   - Forecast_Scoring_and_Verification  & Final Testing: wrapping up verification of supplemental locations baseline method
